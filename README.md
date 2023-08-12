@@ -1,6 +1,7 @@
 # The Tea Machine
 
-This is a tea machine controller written in C++, not to be confused with the typical tea machine: a human and a kettle.
+This is a tea machine controller written in C++ for the Arduino. 
+Not to be confused with the typical tea machine: a human and a kettle.
 
 This was written by my father, Nick.
 
